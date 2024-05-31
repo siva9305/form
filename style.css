@@ -1,0 +1,39 @@
+.form-control{
+    font-size: large;
+}
+
+.form-group{
+    padding-top: 5px;
+    font-size: large;
+}
+
+
+.container{
+    text-align: center;
+    border: 10px solid rgb(0, 0, 0);
+    background-color: cornsilk;
+    font-size: xx-large;
+}
+
+
+.btn{
+    background-color: ghostwhite;
+    color: black;
+    padding: 10px;
+    border-radius: 10px;
+    margin-left: 20px;
+    cursor: pointer;
+
+}
+
+.btn:hover{
+    background-color: burlywood;
+    color: brown;
+    box-shadow: 0px 0px 12px 4px rgb(0,0,0,0.9) ;
+    opacity: 2.3px;
+
+}
+
+
+
+ 
